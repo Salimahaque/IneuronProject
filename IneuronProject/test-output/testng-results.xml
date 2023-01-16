@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-20T20:33:55 EDT" name="Suite" finished-at="2022-09-20T20:34:16 EDT" duration-ms="20952">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T20:33:55 EDT" name="Test" finished-at="2022-09-20T20:34:16 EDT" duration-ms="20952">
+      <class name="PagesTest.IneuronSignupPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PagesTest.IneuronSignupPage@702b8b12]" started-at="2022-09-20T20:33:55 EDT" name="setup" finished-at="2022-09-20T20:34:02 EDT" duration-ms="6961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySignUpButton()[pri:1, instance:PagesTest.IneuronSignupPage@702b8b12]" started-at="2022-09-20T20:34:02 EDT" name="VerifySignUpButton" finished-at="2022-09-20T20:34:03 EDT" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySignUpButton -->
+        <test-method signature="RegisterNewUserForm()[pri:2, instance:PagesTest.IneuronSignupPage@702b8b12]" started-at="2022-09-20T20:34:03 EDT" name="RegisterNewUserForm" finished-at="2022-09-20T20:34:07 EDT" duration-ms="3693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewUserForm -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PagesTest.IneuronSignupPage@702b8b12]" started-at="2022-09-20T20:34:07 EDT" name="TearDown" finished-at="2022-09-20T20:34:07 EDT" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PagesTest.IneuronSignupPage -->
+      <class name="PagesTest.SigninPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PagesTest.SigninPageTest@48974e45]" started-at="2022-09-20T20:34:07 EDT" name="setup" finished-at="2022-09-20T20:34:11 EDT" duration-ms="3552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyloginButton()[pri:0, instance:PagesTest.SigninPageTest@48974e45]" started-at="2022-09-20T20:34:11 EDT" name="VerifyloginButton" finished-at="2022-09-20T20:34:11 EDT" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyloginButton -->
+        <test-method signature="LoginPage()[pri:2, instance:PagesTest.SigninPageTest@48974e45]" started-at="2022-09-20T20:34:11 EDT" name="LoginPage" finished-at="2022-09-20T20:34:16 EDT" duration-ms="4380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PagesTest.SigninPageTest@48974e45]" started-at="2022-09-20T20:34:16 EDT" name="TearDown" finished-at="2022-09-20T20:34:16 EDT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PagesTest.SigninPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
